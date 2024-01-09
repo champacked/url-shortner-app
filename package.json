@@ -1,7 +1,7 @@
 {
   "name": "creating-registration-and-login-form-in-nodejs-and-mongodb",
   "version": "1.0.0",
-  "description": "This is a user login and registration app using Node.js, Express, Mongoose and express-sessions. ",
+  "description": "This is a url shortner app. ",
   "main": "server.js",
   "dependencies": {
     "connect-mongo": "^3.0.0",
@@ -18,12 +18,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/guruhariharaun/creating-registration-and-login-form-in-nodejs-and-mongodb"
+    "url": "https://github.com/champacked/url-shortner-app"
   },
-  "author": "GuruRoxz",
+  "author": "Aman Verma",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/guruhariharaun/creating-registration-and-login-form-in-nodejs-and-mongodb"
+    "url": "https://github.com/champacked/url-shortner-app"
   },
-  "homepage": "https://github.com/guruhariharaun/creating-registration-and-login-form-in-nodejs-and-mongodb#read.me"
+ 
 }
