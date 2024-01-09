@@ -1,5 +1,5 @@
 {
-  "name": "creating-registration-and-login-form-in-nodejs-and-mongodb",
+  "name": "url shortner app",
   "version": "1.0.0",
   "description": "This is a url shortner app. ",
   "main": "server.js",
